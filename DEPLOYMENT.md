@@ -21,7 +21,10 @@ To enable GitHub Pages deployment, you need to configure it in your repository s
 
 ## Local Development
 
-The project uses Vite with a base path configured for GitHub Pages:
+The project uses Vite with a base path configured for GitHub Pages.
+
+**Requirements:**
+- Node.js 20.x or higher (same version used in GitHub Actions)
 
 ```bash
 # Install dependencies
