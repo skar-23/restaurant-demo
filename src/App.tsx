@@ -13,6 +13,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
       <BrowserRouter basename="/restaurant-demo">
         <Routes>
           <Route path="/" element={<Index />} />
