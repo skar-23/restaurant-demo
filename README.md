@@ -62,7 +62,17 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### GitHub Pages (Automatic Deployment)
+
+This repository is configured to automatically deploy to GitHub Pages when changes are pushed to the `main` branch.
+
+**Live URL**: https://skar-23.github.io/restaurant-demo/
+
+**Setup Instructions**: See [DEPLOYMENT.md](./DEPLOYMENT.md) for complete setup instructions.
+
+### Lovable Platform
+
+Alternatively, you can open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
